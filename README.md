@@ -1,6 +1,6 @@
 <!-- 🔥 Futuristic Developer Banner -->
 <p align="center">
-  <img src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=" alt="Developer Futuristic Banner" width="100%" />
+  <img src="https://t4.ftcdn.net/jpg/04/63/37/51/360_F_463375173_vBKRkUbVoCuS9lpUmhdfCc13pprPr148.jpg" alt="Developer Futuristic Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#0ef;">Sachin Sharma</span></h1>
