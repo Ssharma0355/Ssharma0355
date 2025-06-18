@@ -1,6 +1,6 @@
 <!-- 🔥 Futuristic Developer Banner -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt3czQ3cjdkMDl1aDN0NWI2ZDQ3NTBkMGR4cW9pbWh1ampjZnl2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Futuristic Banner" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c2c25vdHZubjZtMWJ6bHI2Y3NvNnZrYzEwczUzNzVsZ3B1YW0xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" alt="Developer Futuristic Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#0ef;">Sachin Sharma</span></h1>
