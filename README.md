@@ -22,7 +22,7 @@ I am a **Full Stack Engineer** dedicated to building high-performance web applic
 - 🔭 **Currently Building**: Production-grade Next.js ecosystems with Type-Safe APIs.
 - 🧪 **Researching**: Microservices with FastAPI and Cloud-native deployment.
 - 💬 **Ask me about**: React performance, MongoDB schema design, and seamless UI/UX.
-- 🎨 **Philosophy**: Code is poetry, but performance is reality.
+- 🎨 **Philosophy**: Code is poetry, but performance & accessibility is reality.
 
 ---
 
