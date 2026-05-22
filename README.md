@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="https://onwheels.in">
+  <a href="https://sachin-portfolio-2026.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00e2ff&labelColor=161b22" />
   </a>
-  <a href="https://www.linkedin.com/in/sachin-sharma-2k23/">
+  <a href="https://www.linkedin.com/in/sachin-sharma-sde/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=161b22" />
   </a>
   <a href="mailto:ssharma0355@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" />
   </a>
+  <a href="https://youtube.com/@whensachinexplains?si=0dWs3xfyM8W9_JwS">
+    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=161b22" />
+  </a>
   <a href="https://docs.google.com/document/d/1s17Pkf1XLiwA_zMmSCoGt01vNqKv7eiPtckyabT76Oc/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=googledocs&logoColor=4285F4&labelColor=161b22" />
-  </a>
-  <a href="https://instagram.com/sachin.sharmapvt">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161b22" />
   </a>
 </p>
 
@@ -138,7 +138,7 @@ const sachin: Developer = {
 ## 🤝 Let's Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachin-sharma-2k23/">
+  <a href="https://www.linkedin.com/in/sachin-sharma-sde/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
@@ -146,8 +146,12 @@ const sachin: Developer = {
     <img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="https://onwheels.in">
+  <a href="https://sachin-portfolio-2026.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View%20Work-00e2ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@whensachinexplains?si=0dWs3xfyM8W9_JwS">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
