@@ -32,7 +32,7 @@ const sachin: Developer = {
   role:      "Full Stack Engineer",
   focus:     ["Clean Architecture", "Scalable Systems", "Fluid UX"],
   building:  "Production-grade Next.js ecosystems with type-safe APIs",
-  exploring: ["Microservices", "FastAPI", "Cloud-native deployment"],
+  exploring: ["Microservices", "FastAPI", "Cloud-native deployment", "LangChain", "AI Agents", "GenAI"],
   philosophy: "Code is poetry — but performance & accessibility is reality.",
 };
 ```
@@ -45,6 +45,7 @@ const sachin: Developer = {
 
 - 🔭 **Currently Building** — Production-grade Next.js ecosystems with Type-Safe APIs
 - 🧪 **Researching** — Microservices with FastAPI and Cloud-native deployment
+- 🧠 **Currently Learning** — LangChain, AI/ML, AI Agents, n8n, and GenAI
 - 💬 **Ask me about** — React performance, MongoDB schema design, seamless UI/UX
 - 🎨 **Philosophy** — Code is poetry, but performance & accessibility is reality
 
@@ -54,7 +55,7 @@ const sachin: Developer = {
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
 **🌐 Frontend**
 
@@ -65,7 +66,7 @@ const sachin: Developer = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
   </td>
-  <td valign="top" width="50%">
+  <td valign="top" width="33%">
 
 **⚙️ Backend & DevOps**
 
@@ -74,6 +75,17 @@ const sachin: Developer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+  </td>
+  <td valign="top" width="33%">
+
+**🤖 AI / ML & Automation** <sub>(Learning)</sub>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=flat-square&logo=openai&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
   </td>
   </tr>
